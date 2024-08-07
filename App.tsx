@@ -10,7 +10,7 @@ function HomeScreen() {
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: 'red',
+        backgroundColor: 'blue',
       }}>
       <Text>Home Screen</Text>
     </View>
